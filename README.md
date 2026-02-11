@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhimanyu Yadav</h1>
 
-<!--
-**abhimanyuY04/abhimanyuY04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 2025 Graduate  
+💻 Java Developer | Web development 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+✔ Core Java  
+✔ JDBC  
+✔ Servlet  
+✔ SQL  
+✔ HTML  
+✔ CSS  
+✔ JavaScript  
+✔ Currently Learning JSP  
+
+---
+
+### 📌 Projects
+🔹 Banking System  
+🔹 Car Rental System  
+🔹 Restaurant Website  
+🔹 Security System  
+
+---
+
+### 📫 Location
+Bhopal, India
