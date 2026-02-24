@@ -13,7 +13,8 @@
 ✔ HTML  
 ✔ CSS  
 ✔ JavaScript  
-✔ Currently Learning JSP  
+✔ JSP  
+✔ Currently Learning Hibernate
 
 ---
 
