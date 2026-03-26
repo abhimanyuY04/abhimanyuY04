@@ -15,7 +15,9 @@
 ✔ JavaScript  
 ✔ JSP  
 ✔ Hibernate
+
 ✔ Currently Learning spring boot 
+
 
 
 
