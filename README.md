@@ -14,7 +14,9 @@
 ✔ CSS  
 ✔ JavaScript  
 ✔ JSP  
-✔ Currently Learning Hibernate
+✔ Hibernate
+✔ Currently Learning spring boot 
+
 
 ---
 
