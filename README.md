@@ -32,4 +32,4 @@
 ---
 
 ### 📫 Location
-Bhopal, India
+Banglore, India
